@@ -44,7 +44,9 @@ Answer the following questions based on your understanding of the installation a
 - Submit your completed assignment by 1st July 
 
 Answers to assignment 2 week 2
+
 Steps to Install Visual Studio Code on Windows
+
 Step 1: Visit the Official Website of the Visual Studio Code using any web browser like Google Chrome
 Step 2: Press the “Download for Windows” button on the website to start the download of the Visual Studio Code Application.
 Step 3: When the download finishes, then the Visual Studio Code Icon appears in the downloads folder.
@@ -55,7 +57,9 @@ Step 7: Then it will ask to begin the installation setup. Click on the Install b
 Step 8: After clicking on Install, it will take about 1 minute to install the Visual Studio Code on your device.
 Step 9: After the Installation setup for Visual Studio Code is finished, it will show a window like this below. Tick the “Launch Visual Studio Code” checkbox and then click Next
 Step 10: After the previous step, the Visual Studio Code window opens successfully.
+
 Number 2
+
 Basic Settings Adjustments
 Theme and Appearance
 Go to File > Preferences > Color Theme and choose a theme that is comfortable for your eyes
@@ -67,7 +71,9 @@ HTML/CSS: HTML CSS Support, Live Server
 Prettier: A code formatter for consistent code style.
 GitLens: Supercharges the built-in Git capabilities.
 Live Share: Enables real-time collaborative development.
+
 Number 3
+
 the VS Code user interface comprises several key components:
 Activity Bar
 Location: Vertical bar on the left.
@@ -81,7 +87,9 @@ Purpose: Main workspace for editing files, supporting multiple tabs and split vi
 Status Bar
 Location: Bottom horizontal bar.
 Purpose: Shows information about the current project, file, and editor status, including Git branch, language mode, and errors.
+
 Number 4
+
 Accessing the Command Palette
 Shortcut: Press Ctrl+Shift+P (Windows/Linux) or Cmd+Shift+P (Mac).
 Common Tasks
@@ -93,7 +101,9 @@ Install Extensions: Extensions: Install Extensions.
 Format Code: Format Document.
 Open Terminal: Terminal: Create New Integrated Terminal.
 The Command Palette enhances productivity by providing quick access to these tasks.
+
 Number 5
+
 Extensions in VS Code enhance its functionality by adding features tailored to specific development needs. Users can find, install, and manage extensions via the Extensions view, accessible by clicking the Extensions icon in the Activity Bar or pressing Ctrl+Shift+X.
 
 Essential Extensions for Web Development
@@ -103,7 +113,9 @@ Live Server: Real-time web server
 Debugger for Chrome: Debugging JavaScript in Chrome
 HTML CSS Support: Enhanced HTML and CSS editing
 These extensions streamline web development workflows, improving productivity and code quality.
+
 Number 6
+
 To open the integrated terminal in VS Code, go to View > Terminal or press Ctrl+ (Windows/Linux) or Cmd+ (Mac). The terminal appears at the bottom of the VS Code window, allowing you to run shell commands directly within the editor.
 Advantages of Using the Integrated Terminal:
 •	Convenience: It keeps the terminal within the same workspace, reducing context switching.
@@ -111,14 +123,18 @@ Advantages of Using the Integrated Terminal:
 •	Multiple Terminals: You can open and manage multiple terminals easily.
 •	Customizability: It can be customized for different shells (e.g., Bash, PowerShell).
 Using the integrated terminal enhances productivity and streamlines the development workflow.
+
 Number 7
+
 To create files or folders in VS Code, use the Explorer sidebar. 
 Right-click in the sidebar to create new files or folders. 
 To open files, double-click them in the sidebar or use the "File > Open..." menu.
  To navigate, use the sidebar to switch between files and directories. 
 Use shortcuts like Ctrl+P to quickly find and open files by name.
  Extensions like "File Utils" can aid in managing files and folders efficiently.
+
 Number 8
+
 In VS Code, users can find and customize settings by navigating to the "Settings" menu accessible through File > Preferences > Settings (or using Ctrl+,). Here, they can change various aspects such as:
 1.	Changing the Theme:
 o	Go to Settings and search for "Color Theme".
@@ -130,7 +146,9 @@ o	Modify the "Editor: Font Size" setting to adjust text size (e.g., 14).
 o	Search for "Keybindings" in Settings.
 o	Click on "Open Keyboard Shortcuts" to modify or create custom keybindings using the graphical interface.
 These settings empower users to personalize their coding environment effectively in VS Code.
+
 Number 9
+
 To start debugging a program in VS Code, follow these steps:
 1.	Set Breakpoints:
 o	Open your project and navigate to the file containing your code.
@@ -146,7 +164,9 @@ Key debugging features in VS Code include:
 •	Watch expressions: Monitor specific variables or expressions during debugging.
 •	Console: Interact with the program through a debug console for input and output monitoring.
 These tools make it efficient to diagnose and resolve issues in your code directly within VS Code.
+
 Number 10
+
 Integrating Git with VS Code facilitates efficient version control and collaboration. Here’s a detailed guide to get started:
 1.	Install Git: Ensure Git is installed on your system. You can download it from git-scm.com and follow the installation instructions.
 2.	Open VS Code: Launch VS Code and either open an existing project folder or create a new one.
